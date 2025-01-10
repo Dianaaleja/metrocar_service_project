@@ -12,6 +12,9 @@ The project focused on analyzing Metrocar’s customer journey to identify drop-
 Metrocar's business model is based on a platform that connects riders with drivers through a mobile application. acts as an intermediary between riders and drivers, providing a user-friendly platform to connect them and facilitate the ride-hailing process.
 ## Files attached 
 
+## Links to resource
+
+- [Open in Google Colab](https://colab.research.google.com/drive/1pvm6u5kE7ZJ6JfSj2WRIBXXqqCShEfn-?usp=sharing)
 
 ## Business Questions
 The analysis addressed the following key business questions:

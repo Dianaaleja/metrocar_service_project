@@ -14,7 +14,10 @@ Metrocar's business model is based on a platform that connects riders with drive
 
 ## Links to resource
 
-- [Open in Google Colab](https://colab.research.google.com/drive/1pvm6u5kE7ZJ6JfSj2WRIBXXqqCShEfn-?usp=sharing)
+- [Colab Notebook](https://colab.research.google.com/drive/1pvm6u5kE7ZJ6JfSj2WRIBXXqqCShEfn-?usp=sharing)
+- [Video PartI](https://www.loom.com/share/6bc68cf5b73c489e8cec66f8124b4bb2?sid=6ef0b7ea-e695-4f4c-bb23-3796aa2aeac8)
+- [Video PartII](https://www.loom.com/share/0266c5263ba54daca4c1b122e1520d75?sid=239a3a07-6cbd-4b76-a74c-e135ca2bc921)
+
 
 ## Business Questions
 The analysis addressed the following key business questions:

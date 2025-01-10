@@ -19,6 +19,8 @@ Metrocar's business model is based on a platform that connects riders with drive
 
 Metrocar Project Slides.pptx
 Metrocar_project_Diana_Terraza.ipynb
+metrocarfinal.sql
+
 
 ## Links to resource
 
